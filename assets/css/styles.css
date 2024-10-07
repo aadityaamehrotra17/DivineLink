@@ -1,0 +1,13 @@
+body {
+  background: #f9f8f0;
+}
+
+.btn {
+  border-radius: 10px;
+}
+
+.navbar {
+  background: rgba(241,242,244,0.8);
+  border-bottom: 1px solid #dfe3e7 ;
+}
+
